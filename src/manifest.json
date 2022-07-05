@@ -1,0 +1,28 @@
+{
+  "name": "chibihub",
+  "description": "Like and Dislike Web Pages",
+  "version": "1.0",
+  "manifest_version": 3,
+  "options_page": "options.html",
+  "background": {
+    "page": "background.html"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "home34.png"
+  },
+  "icons": {
+    "128": "home128.png",
+    "48": "home48.png",
+    "34": "home34.png",
+    "16": "home16.png"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["*://*.example.com/*"],
+  "action": {
+    "default_title": "Like and Dislike Web Pages",
+    "default_icon": "home16.png",
+    "default_popup": "popup.html"
+  }
+}
+
