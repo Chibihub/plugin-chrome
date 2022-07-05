@@ -65,6 +65,12 @@ This page list the status of all included and future features to be added to pro
 
    - [x] **status:** *complete*
 
+**8. docsify | deploy**
+
+   - [x] **status:** *complete*
+   - **comments:**
+     - deployed through github pages
+
 **9. docsify | themes**
 
    - [ ] **status:** *backlog*
@@ -75,13 +81,19 @@ This page list the status of all included and future features to be added to pro
 
    - [ ] **status:** *backlog*
    - **comments**
-     - docsify helpers ae used to further customize docsify
+     - docsify helpers available to further customize docsify
 
-**11. readme | badges**
+**11. docsify | plugins**
+
+   - [ ] **status:** *backlog*
+   - **comments**
+     - docsify plugins available to further customize docsify
+
+**12. readme | badges**
 
    - [ ] **status:** *backlog*
 
-**12. ...**
+**13. ...**
 
 ## User Interface
 
