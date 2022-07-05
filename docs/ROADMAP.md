@@ -86,6 +86,9 @@ This page list the status of all included and future features to be added to pro
 **11. docsify | plugins**
 
    - [ ] **status:** *backlog*
+   - [ ] **features:**
+     - [ ] *[Full text search](https://docsify.js.org/#/plugins?id=full-text-search)*
+     - [ ] *[emoji](https://docsify.js.org/#/plugins?id=emoji)*
    - **comments**
      - docsify plugins available to further customize docsify
 
@@ -182,7 +185,10 @@ This page list the status of all included and future features to be added to pro
 
 ### Auth0 | Chrome Authentication
 
-- [Helpful Post](https://community.auth0.com/t/ultimate-guide-to-auth0-in-a-chrome-extension-popup/61362/2)
+- https://community.auth0.com/t/ultimate-guide-to-auth0-in-a-chrome-extension-popup/61362/2
+- https://community.auth0.com/t/auth0-in-chrome-extension-content-background-script-mv3/74603
+- https://roberttolton.com/posts/implementing-auth0-authentication-into-a-chrome-extension
+- https://auth0.com/docs/get-started/authentication-and-authorization-flow/call-your-api-using-the-authorization-code-flow-with-pkce
 
 ### PouchDB | Ext Storage
 
