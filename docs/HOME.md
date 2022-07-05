@@ -6,16 +6,8 @@
 
 ## About
 
+[chrome store link]()
+
 ?> _TODO_ Describe the ext
 
-### What is Chibihub?
 
-?> _TODO_ Describe chibihub
-
-### What is the Chrome Extention for?
-
-?> _TODO_ Describe the ext purpose; problem it's trying to solve
-
-### Where can I get it?
-
-[chrome store extention link]()
