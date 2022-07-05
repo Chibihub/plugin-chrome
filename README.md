@@ -6,7 +6,7 @@
 
 Project Template: [samuelsimoes](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate)
 
-## Documentation
+## [Documentation](https://chibihub.github.io/plugin-chrome/#/)
 
 ### **[docsify](https://docsify.js.org)**
 
